@@ -4,6 +4,7 @@ O LogDecryptor é uma ferramenta criada em C# para descriptografar logs criptogr
 
 
 ![Alt Text](https://github.com/herondi/Logdecryptor/blob/master/root/HTR%202023-04-12%2011-57-50-187.jpg)
+![Alt Text](https://github.com/herondi/Logdecryptor/blob/master/root/HTR%202023-04-12%2011-58-33-743.jpg)
 
 
 ## Funcionalidades
